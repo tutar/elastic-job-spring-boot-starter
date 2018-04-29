@@ -1,0 +1,5 @@
+# Auto Configure
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.dangdang.elasticjob.autoconfigure.ElasticJobAutoConfiguration,\
+com.dangdang.elasticjob.autoconfigure.RegistryCenterConfig,\
+com.dangdang.elasticjob.autoconfigure.ElasticJobEventDataSourceConfig
